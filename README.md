@@ -16,7 +16,7 @@ An n8n workflow that monitors AI and automation news, summarizes updates using O
 
 ## How to Use
 
-1. Download the workflow JSON.
+1. Download the workflow JSON. ( filename - AI Competitor News Monitor & Weekly Digest.json ).
 2. Import it into n8n.
 3. Connect your own OpenAI, Gmail, and Slack credentials.
 4. Update the destination email and Slack channel.
